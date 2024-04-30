@@ -2,7 +2,7 @@
   <br>
   <a href=" https://github.com/BLACK-SCORP10/Email-Vulnerablity-Checker.git"><img src="img/EVC.png"></a>
   <br>
-  Email Vulnerablity Checker v1.1.1
+  Email Vulnerablity Checker v2.0
   <br>
 </h1>
 
